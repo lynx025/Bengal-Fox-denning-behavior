@@ -1,0 +1,12 @@
+"","Feeding","Food-Caching","Foraging","Inter-species Interaction","Intra-species Interaction","Passing","Pooping","Resting","Scooting","Self-Grooming","Vigilance"
+"Feeding",519,0,56,0,19,142,0,31,0,23,25
+"Food-Caching",0,8,0,0,0,0,0,0,0,0,0
+"Foraging",56,0,1185,5,53,234,0,89,0,80,56
+"Inter-species Interaction",0,0,5,52,1,17,0,2,0,3,25
+"Intra-species Interaction",19,0,53,1,428,120,0,49,0,29,26
+"Passing",142,0,234,17,120,2035,0,195,0,119,86
+"Pooping",0,0,0,0,0,0,1,1,0,0,0
+"Resting",31,0,89,2,49,195,1,634,0,73,23
+"Scooting",0,0,0,0,0,0,0,0,1,0,0
+"Self-Grooming",23,0,80,3,29,119,0,73,0,381,17
+"Vigilance",25,0,56,25,26,86,0,23,0,17,446
